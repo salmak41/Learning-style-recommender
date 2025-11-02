@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "question": "When learning something new, I prefer to:",
+    "options": [
+      {"value": "V", "text": "See diagrams, charts, or demonstrations"},
+      {"value": "A", "text": "Listen to explanations or discussions"},
+      {"value": "R", "text": "Read books or written instructions"},
+      {"value": "K", "text": "Try it out hands-on"}
+    ]
+  },
+  {
+    "id": 2,
+    "question": "I remember information best when I:",
+    "options": [
+      {"value": "V", "text": "Visualize it in my mind"},
+      {"value": "A", "text": "Hear it spoken"},
+      {"value": "R", "text": "Write it down or read it"},
+      {"value": "K", "text": "Do something physical with it"}
+    ]
+  }
+]

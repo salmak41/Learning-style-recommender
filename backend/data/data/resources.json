@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "topic": "python",
+    "style": "V",
+    "title": "Python Visual Learning Course",
+    "type": "video",
+    "url": "https://example.com/python-visual-course",
+    "description": "Interactive video course with diagrams and visual examples"
+  },
+  {
+    "id": 2,
+    "topic": "python",
+    "style": "A",
+    "title": "Python Audio Tutorials",
+    "type": "audio",
+    "url": "https://example.com/python-audio-tutorials",
+    "description": "Podcast-style lessons for auditory learners"
+  },
+  {
+    "id": 3,
+    "topic": "python",
+    "style": "R",
+    "title": "Python Documentation Guide",
+    "type": "documentation",
+    "url": "https://docs.python.org",
+    "description": "Comprehensive written documentation and tutorials"
+  },
+  {
+    "id": 4,
+    "topic": "python",
+    "style": "K",
+    "title": "Python Hands-on Labs",
+    "type": "interactive",
+    "url": "https://example.com/python-labs",
+    "description": "Interactive coding exercises and projects"
+  }
+]
