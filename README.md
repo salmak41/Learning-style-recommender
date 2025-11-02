@@ -33,25 +33,25 @@ learning-recommender/
 ## 🚀 Quick Start
 
 ### Backend (Port 5000)
--*bash*
--*cd backend*
--*npm install*
--*node server.js*
+```bash
+cd backend
+npm install
+node server.js
 
 
 ### Frontend (Port 3000)
--*bash*
--*cd frontend*
--*npm install*
--*npm start*
+bash
+cd frontend
+npm install
+npm start
 
 
 ## 📚 API Endpoints
 
 -*GET /api/test - Health check*
--*GET /api/questions - Get VARK questions*
--*POST /api/submit-quiz- Submit answers, get learning style*
--*GET /api/resources- Get personalized resources*
+-*GET /api/questions - Get VARK questions*   
+-*POST /api/submit-quiz- Submit answers, get learning style*  
+-*GET /api/resources- Get personalized resources*  
 
 ## 👥 Team
 
