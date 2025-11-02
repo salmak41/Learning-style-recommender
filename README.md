@@ -37,22 +37,22 @@ learning-recommender/
 cd backend
 npm install
 node server.js
-
+```
 
 ### Frontend (Port 3000)
-bash
+```bash
 cd frontend
 npm install
 npm start
-
+```
 
 ## 📚 API Endpoints
-
--*GET /api/test - Health check*
--*GET /api/questions - Get VARK questions*   
--*POST /api/submit-quiz- Submit answers, get learning style*  
--*GET /api/resources- Get personalized resources*  
-
+```
+-GET /api/test - Health check
+-GET /api/questions - Get VARK questions   
+-POST /api/submit-quiz- Submit answers, get learning style  
+-GET /api/resources- Get personalized resources  
+```
 ## 👥 Team
 
 - *Salma Kousar*
